@@ -35,6 +35,7 @@ def foo():
     print("Running time for local alingment is ", alignmenttime)
 
 for i in range(2
+               
                ):
 	foo()
 csv_handler.save_data()

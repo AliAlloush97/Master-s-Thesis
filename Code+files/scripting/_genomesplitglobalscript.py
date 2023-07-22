@@ -24,6 +24,7 @@ def foo():
     alignmenttime = datetime.now() - startTime
     print("Running time for global alingment is ", alignmenttime)
 
-for i in range(2):
+for i in range(2
+               ):
 	foo()
 csv_handler.save_data()
